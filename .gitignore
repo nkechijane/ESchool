@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ESchool/obj/Debug/net5.0
+/ESchool/bin/Debug/net5.0
+/ESchool/obj
